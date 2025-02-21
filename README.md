@@ -1,3 +1,4 @@
+# 📄 Docs Mini App
 Elevate your UI game with this modern and interactive document card layout! Designed with React, Tailwind CSS, and Framer Motion, this project brings dynamic animations and responsive design to showcase files or documents in style. Perfect for building sleek dashboards, file management systems, or even as a portfolio component. <br><br>
 
 ## 🚀 Features  
